@@ -17,7 +17,7 @@ X_test = testset[:,0:15]
 Y_test = testset[:,15]
 X_test = preprocessing.scale(X_test)
 
-
+# Added this comment July 26, 2018
 X = dataset[:,0:15]
 Y = dataset[:,15]
 
