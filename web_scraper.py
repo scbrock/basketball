@@ -3,6 +3,9 @@ from requests.exceptions import RequestException
 from contextlib import closing
 from bs4 import BeautifulSoup
 
+# website for web scraping in python:
+# https://realpython.com/python-web-scraping-practical-introduction/
+
 def simple_get(url):
     """
     Attempts to get the content at `url` by making an HTTP GET request.
