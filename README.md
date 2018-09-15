@@ -12,6 +12,7 @@ All the data used has been taken from nba.com. Data has been divided into two gr
 ## Implementation:
 There are 3 models, a linear model, an xgboost model, and a neural network (in Keras). Each model is trained on 70% of the data and is then tested on the remaining 30%. Accuracies can then be compared.
 
-
+## Results:
+The xgboost model outperformed the neural network and linear model. This is probably due to the lack of data (~500 data points).
 
 
