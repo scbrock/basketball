@@ -1,4 +1,4 @@
-# basketball
+# basketball - NBA Team Stat Predictor
 
 file: NBA_data_exploration.ipynb
 
